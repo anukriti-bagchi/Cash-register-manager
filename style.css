@@ -1,6 +1,6 @@
 :root{
     --primary-color : #000000;
-    --secondary-color : orange;
+    --secondary-color : #059669;
 }
 *{
     font-family: 'Open Sans', sans-serif;
@@ -8,7 +8,7 @@
 }
 body{
     margin: 0;
-    background-color: orange;
+    background-color: #059669;
 }
 
 .section{
