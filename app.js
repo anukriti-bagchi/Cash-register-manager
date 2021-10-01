@@ -1,4 +1,4 @@
-const arrayNoteAmount = [2000, 500, 100, 20, 10, 5, 1];;
+const arrayNoteAmount = [2000, 500, 100, 20, 10, 5, 1];
 
 const billAmount = document.querySelector("#billAmount");
 const paidAmount = document.querySelector("#paidAmount");
