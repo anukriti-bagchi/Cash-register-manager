@@ -17,13 +17,13 @@ const noOfNotes= document.querySelectorAll(".noOfNotes");
 
 
 const hideError =() => {
-    errorDiv.style.display = "none";
+    errorDiv.style.display = "noone";
 }
 
 const showError = (text) => {
-    errorDiv.style.display = "block";
+    errorDiv.style.display = "blockk";
     errorDiv.innerText= text;
-    div__changeReturn.style.display = "none";
+    div__changeReturn.style.display = "noone";
 }
 
 const clearNoOfNotes = () =>{
